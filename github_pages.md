@@ -13,3 +13,4 @@ If you want to use this theme for your Jekyll's site deployed on [GitHub Pages](
 The default branch that Github pages uses to build and deploy the site is gh-pages branch (and not the master/main branch). To deploy master branch instead, you can change the settings as follows:
 
 FORKED_REPO > Settings > Pages > Source > select(Branch=Master)
+
