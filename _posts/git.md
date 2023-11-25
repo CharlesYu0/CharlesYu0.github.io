@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Git 简易教程'
 weight: 1001
 ---
